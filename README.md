@@ -40,6 +40,10 @@
 <h3 align="center"><strong>Desenvolvimentos </strong></h3>
 
 <br>
+<p> Desenvolvimento Web </p>
+
+- [Stand-One Dribble Desenvolvimento do Layout do site.](https://github.com/felipegith/Stand---Dribble)
+
 <p>Desenvolvimento mobile e back-end</p>
 
 - [Levy - Aplicativo para controle de cobranças. ](https://github.com/felipegith/Levy)
