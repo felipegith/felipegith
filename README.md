@@ -40,10 +40,10 @@
 <h3 align="center"><strong>Desenvolvimentos </strong></h3>
 
 <br>
-<p> Backend </p>
+<p> ASP.NET WEB API </p>
 
 - [RabbitMQ - Primeiros passos.](https://github.com/felipegith/RabbitMQ-)
-- 
+ 
 <p> Desenvolvimento Web </p>
 
 - [Line - Landing Page.](https://github.com/felipegith/Project-Landing)
