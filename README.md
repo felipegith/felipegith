@@ -40,6 +40,13 @@
 <h3 align="center"><strong>Desenvolvimentos </strong></h3>
 
 <br>
+
+<p> ASP.NET WEB API/ Paginação e cache de memória </p>
+
+- [ASP NET WEB API - Trabalhando com cache de memória e paginação]([https://github.com/felipegith/RabbitMQ-](https://github.com/felipegith/Pagina-o-e-cache-de-memoria-ASP-NET-WEB-API))
+ 
+<p> Desenvolvimento Web </p>
+
 <p> ASP.NET WEB API </p>
 
 - [RabbitMQ - Primeiros passos.](https://github.com/felipegith/RabbitMQ-)
