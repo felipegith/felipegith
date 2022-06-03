@@ -43,7 +43,7 @@
 
 <p> ASP.NET WEB API/ Paginação e cache de memória </p>
 
-- [ASP NET WEB API ]([https://github.com/felipegith/RabbitMQ-](https://github.com/felipegith/Pagina-o-e-cache-de-memoria-ASP-NET-WEB-API))
+- [ASP NET WEB API ](https://github.com/felipegith/Pagina-o-e-cache-de-memoria-ASP-NET-WEB-API)
 
 <p> ASP.NET WEB API </p>
 
