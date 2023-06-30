@@ -9,8 +9,6 @@
 <p>Minhas contribuições no github
 <br>
 
-//![Felipe GitHub stats](https://github-readme-stats.vercel.app/api?username=felipegith&show_icons=true&theme=radical)
-
 </div>
 <hr>
 
