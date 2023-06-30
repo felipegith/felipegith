@@ -1,6 +1,6 @@
 <p align="center">Felipe Costa </p>
 <br>
-<p align="center">Um jovem de origem humilde, muito estudioso, trabalhador e proativo. Atuando na área na de programação com desenvolvimento de soluções RPA e desenvolvimento de sistemas. Em ambientes academicos e pessoais, atuo com desenvolvimento de aplicações web.
+<p align="center">Apaixonado por tecnologia e por todas as maravilhas que ela pode nos proporcionar. Desenvolvedor fullstack atuando com .NET, ReactJS e ReactNative.
 
 <hr>
 <br>
