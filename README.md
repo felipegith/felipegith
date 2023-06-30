@@ -45,7 +45,7 @@
 
 - [RabbitMQ - Primeiros passos.](https://github.com/felipegith/RabbitMQ-)
   
-<p> ASP.NET WEB API </p>
+<p> ASP.NET CORE </p>
 
 - [ASP NET CORE Rate Limiting](https://github.com/felipegith/RATELIMITING)
  
