@@ -7,7 +7,7 @@
 - Web Developer and RPA Developer 💻
 - Working how developer in [e-Auditoria](https://e-auditoria.com.br) 🔥
 - Creator of Ounje 🚀
-- ![LinkedIn](https://www.linkedin.com/in/felipe-costa-8039361b1/)
+- [LinkedIn](https://www.linkedin.com/in/felipe-costa-8039361b1/)
 
 <br>
 <br>
