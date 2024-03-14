@@ -1,6 +1,6 @@
 <p align="center">Felipe Costa </p>
 <br>
-<p align="center">Apaixonado por tecnologia e por todas as maravilhas que ela pode nos proporcionar.<br> Atuando com desenvolvimento de aplicações web e automaçoes.<br> Desenvolvedor fullstack .NET, ReactJS e React-Native.
+<p align="center">Como um programador ávido por tecnologia, estou constantemente imerso em novos desafios e aprendizados. Trabalho principalmente com C#, JavaScript e TypeScript, enquanto me aventuro na jornada de aprender Golang. Cada linha de código que escrevo reflete minha paixão pelo desenvolvimento de software e meu compromisso em criar soluções inovadoras. Estou sempre aberto para abraçar o desconhecido e evoluir continuamente como programador e indivíduo.
 
 <hr>
 <br>
