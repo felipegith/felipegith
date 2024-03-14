@@ -12,8 +12,10 @@
 <br>
 <br>
 
-My Stack
+<strong>Stack<strong/>
 <br>
 ![.NET](https://img.shields.io/badge/.NET-05122A?style=flat&logo=.net)
 ![Javascript](https://img.shields.io/badge/Javascript-05122A?style=flat&logo=javascript)
 ![Typescript](https://img.shields.io/badge/Typescript-05122A?style=flat&logo=typescript)
+![Golang](https://img.shields.io/badge/golang-05122A?style=flat&logo=golang)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
