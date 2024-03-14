@@ -4,7 +4,13 @@
 <br>
 <br>
 
-- Web Developer and RPA Developer
-- Working how developer in [e-Auditoria](https://e-auditoria.com.br)</li>
-- Creator of Ounje
-- Linkedin (https://www.linkedin.com/in/felipe-costa-8039361b1/)
+- Web Developer and RPA Developer 💻
+- Working how developer in [e-Auditoria](https://e-auditoria.com.br) 🔥
+- Creator of Ounje 🚀
+- [Linkedin] (https://www.linkedin.com/in/felipe-costa-8039361b1/)
+
+<br>
+<br>
+
+My Stack
+![.NET](https://img.shields.io/badge/.NET-05122A?style=flat&logo=.net)&nbsp
