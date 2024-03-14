@@ -13,4 +13,7 @@
 <br>
 
 My Stack
+<br>
 ![.NET](https://img.shields.io/badge/.NET-05122A?style=flat&logo=.net)&nbsp
+![Javascript](https://img.shields.io/badge/Javascript-05122A?style=flat&logo=javascript)&nbsp
+![Typescript](https://img.shields.io/badge/Typescript-05122A?style=flat&logo=typescript)&nbsp
