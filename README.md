@@ -22,6 +22,9 @@
 ![ReactJS](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![NextJS](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 
+# Projetos
+# Ounje - Waiter
+
 
 # Ounje - Waiter
 
@@ -30,9 +33,11 @@ como um serviço de garçom e cozinha. Com o perfil de garçom criado é possív
 anotações sobre os pedidos do cliente, edição e exclusão. Ao criar um pedido o mesmo fica disponível
 em um perfil de cozinha. Lá é possível verificar todos os pedidos criados pelos garçons do estabelecimento
 
-Tela de login
+Images de aplicação abaixo.
 
-![Logo](https://i.imgur.com/EC40vm9.png)
+![Logo](https://i.imgur.com/w2nVgFG.png)
+
+
 
 
 
