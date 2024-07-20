@@ -23,4 +23,4 @@
 ![NextJS](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 
 <strong>Projetos<strong/>
-<img src="https://imgur.com/8UrKpeL"><img/>
+<img width="400" src="https://imgur.com/8UrKpeL">
