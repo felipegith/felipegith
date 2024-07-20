@@ -22,15 +22,15 @@
 ![ReactJS](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![NextJS](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 
-# Projetos
+<strong>Projetos<strong/>
 
 
 # Ounje - Waiter
 
-Projeto desenvolvido com o objetivo de atender pequenos estabelecimentos. A aplicação funciona
+<span>Projeto desenvolvido com o objetivo de atender pequenos estabelecimentos. A aplicação funciona
 como um serviço de garçom e cozinha. Com o perfil de garçom criado é possível que o mesmo faça
 anotações sobre os pedidos do cliente, edição e exclusão. Ao criar um pedido o mesmo fica disponível
-em um perfil de cozinha. Lá é possível verificar todos os pedidos criados pelos garçons do estabelecimento
+em um perfil de cozinha. Lá é possível verificar todos os pedidos criados pelos garçons do estabelecimento <span/>
 
 Images de aplicação abaixo.
 
