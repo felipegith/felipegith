@@ -22,10 +22,10 @@
 ![ReactJS](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![NextJS](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 
-<strong>Projetos<strong/>
+# Projetos
 
 
-# Ounje - Waiter
+<strong>Ounje - Waiter<strong/>
 
 <span>Projeto desenvolvido com o objetivo de atender pequenos estabelecimentos. A aplicação funciona
 como um serviço de garçom e cozinha. Com o perfil de garçom criado é possível que o mesmo faça
