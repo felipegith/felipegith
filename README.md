@@ -44,7 +44,7 @@ Projeto pessoal desenvolvido para controle financeiro pessoal. Neste aplicativo 
 
 Images de aplicação abaixo.
 
-![Logo]()
+![Logo](https://i.imgur.com/kQZAs4m.png)
 
 
 
