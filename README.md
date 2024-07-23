@@ -48,3 +48,21 @@ Images de aplicação abaixo.
 
 
 
+# Desafios técnicos
+
+Para aplicar meus conhecimentos na área de desenvolvimento eu procuro por desafios técnicos de várias empresas e busco resolvê-las aplicando todo meu conhecimento atual sobre o desenvolvimento de aplicações. Abaixo deixarei disponível alguns repositorios de projetos desenvolvidos de alguns desáfios técnicos. 
+
+
+
+
+#### Pagarme:
+
+**Descrição:** Nesse desafio você construirá uma versão super simplificada de um Payment Service Provider (PSP) como o Pagar.me e talvez aprender um pouco mais sobre como funcionam pagamentos no Brasil.
+
+**Explicação sobre o teste:** https://github.com/pagarme/vagas/blob/master/desafios/software-engineer-backend/README.md
+
+
+**Repositório com teste desenvolvido:** https://github.com/felipegith/pagam
+
+
+
