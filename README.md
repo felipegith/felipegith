@@ -76,3 +76,11 @@ Para aplicar meus conhecimentos na área de desenvolvimento eu procuro por desaf
 **Repositório com teste desenvolvido:** https://github.com/felipegith/pic
 
 
+
+#### SeniorSA:
+
+**Descrição:** Desenvolvimento de uma aplicação de marcação de hórarios.
+
+**Repositório com teste desenvolvido:** https://github.com/felipegith/Labs
+
+
