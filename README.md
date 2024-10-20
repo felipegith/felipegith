@@ -36,6 +36,22 @@ Imagens da aplicação abaixo:
 
 ![Logo](https://i.imgur.com/w2nVgFG.png)
 
+Informações técnicas sobre a aplicação:
+
+Frontend:
+
+- Next.js: Framework React para renderização híbrida (SSR e SSG), facilitando o desenvolvimento de páginas dinâmicas e estáticas, otimizando SEO e melhorando a performance da aplicação.
+- ShadCN/UI: Biblioteca de componentes UI com design system customizável e compatível com React, proporcionando uma interface de usuário responsiva e moderna.
+- 
+Backend:
+
+- C# com .NET: Implementado em .NET Core, garantindo alta performance, segurança e suporte a multiplataforma.
+- Arquitetura Limpa: Segregação clara entre camadas (Aplicação, Domínio, Infraestrutura) para facilitar a manutenção, evolução e teste do sistema.
+- CQRS (Command Query Responsibility Segregation): Separação de comandos (alterações de estado) e consultas (leitura), promovendo uma melhor organização do código e escalabilidade.
+- Entity Framework: ORM utilizado para gerenciar o acesso ao banco de dados, facilitando o mapeamento objeto-relacional.
+- DDD (Domain-Driven Design): Foco na modelagem de domínios ricos e na implementação de regras de negócio diretamente na camada de domínio.
+- Unit of Work: Padrão que controla a transação de múltiplos repositórios, garantindo a consistência de dados e promovendo a centralização do gerenciamento de transações.
+
 
 <strong>Ounje - Visitor<strong/>
 
