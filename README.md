@@ -47,6 +47,24 @@ Imagens da aplicação abaixo:
 
 ![Logo](https://imgur.com/e1EcSI1.png)
 
+Informações técnicas sobre a aplicação:
+
+Frontend:
+
+- Next.js: Framework React para renderização híbrida (SSR e SSG), facilitando o desenvolvimento de páginas dinâmicas e estáticas, otimizando SEO e melhorando a performance da aplicação.
+- ShadCN/UI: Biblioteca de componentes UI com design system customizável e compatível com React, proporcionando uma interface de usuário responsiva e moderna.
+- 
+Backend:
+
+- C# com .NET: Implementado em .NET Core, garantindo alta performance, segurança e suporte a multiplataforma.
+- Arquitetura Limpa: Segregação clara entre camadas (Aplicação, Domínio, Infraestrutura) para facilitar a manutenção, evolução e teste do sistema.
+- CQRS (Command Query Responsibility Segregation): Separação de comandos (alterações de estado) e consultas (leitura), promovendo uma melhor organização do código e escalabilidade.
+- Entity Framework: ORM utilizado para gerenciar o acesso ao banco de dados, facilitando o mapeamento objeto-relacional.
+- TDD (Test Driven Development): Desenvolvimento orientado a testes, garantindo alta cobertura de testes e reduzindo bugs.
+- DDD (Domain-Driven Design): Foco na modelagem de domínios ricos e na implementação de regras de negócio diretamente na camada de domínio.
+- Specification Pattern: Padrão de projeto que facilita a composição e reutilização de regras de negócio complexas através de especificações que encapsulam lógica de consulta.
+- Unit of Work: Padrão que controla a transação de múltiplos repositórios, garantindo a consistência de dados e promovendo a centralização do gerenciamento de transações.
+
 <strong>Ounje - Finance<strong/>
 
 Projeto pessoal desenvolvido para controle financeiro pessoal. Neste aplicativo é possível realizar anotação sobre suas compras para ter um controle melhor sobre seus gastos no geral.
