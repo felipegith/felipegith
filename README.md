@@ -45,7 +45,7 @@ em um condominio. Ao receber uma visita os porteiros podem cadastrar as informa�
 
 Imagens da aplicação abaixo:
 
-![Logo](https://imgur.com/e1EcSI1)
+![Logo](https://imgur.com/e1EcSI1.png)
 
 <strong>Ounje - Finance<strong/>
 
