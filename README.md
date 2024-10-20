@@ -32,17 +32,26 @@ como um serviço de garçom e cozinha. Com o perfil de garçom criado é possív
 anotações sobre os pedidos do cliente, edição e exclusão. Ao criar um pedido o mesmo fica disponível
 em um perfil de cozinha. Lá é possível verificar todos os pedidos criados pelos garçons do estabelecimento <span/>
 
-Images de aplicação abaixo.
+Imagens da aplicação abaixo:
 
 ![Logo](https://i.imgur.com/w2nVgFG.png)
 
 
+<strong>Ounje - Visitor<strong/>
+
+<span>Projeto desenvolvido após observar uma necessidade em um condominio residencial. A aplicação tem como objetivo controler a entrada de visitantes
+em um condominio. Ao receber uma visita os porteiros podem cadastrar as informações sobre o visitante, melhorando a segurança dos moradores e dos visitantes.
+<span/>
+
+Imagens da aplicação abaixo:
+
+![Logo](https://imgur.com/e1EcSI1)
 
 <strong>Ounje - Finance<strong/>
 
 Projeto pessoal desenvolvido para controle financeiro pessoal. Neste aplicativo é possível realizar anotação sobre suas compras para ter um controle melhor sobre seus gastos no geral.
 
-Images de aplicação abaixo.
+Imagens da aplicação abaixo:
 
 ![Logo](https://i.imgur.com/kQZAs4m.png)
 
