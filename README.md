@@ -24,6 +24,33 @@
 
 # Projetos
 
+<strong>Ounje - ControlGroup<strong/>
+
+<span>Sistema de gestão financeira colaborativa para pequenos empréstimos com geração automatizada de relatórios, calculo de dívidas e emprestimos em background e notificações<span/>
+
+Imagens da aplicação abaixo:
+![Logo](https://imgur.com/a/3oDYuwC)
+
+Informações técnicas sobre a aplicação:
+
+Backend:
+
+- C# com .NET: Implementado em .NET Core, garantindo alta performance, segurança e suporte a multiplataforma.
+- Arquitetura Limpa: Segregação clara entre camadas (Aplicação, Domínio, Infraestrutura) para facilitar a manutenção, evolução e teste do sistema.
+- CQRS (Command Query Responsibility Segregation): Separação de comandos (alterações de estado) e consultas (leitura), promovendo uma melhor organização do código e escalabilidade.
+- Entity Framework: ORM utilizado para gerenciar o acesso ao banco de dados, facilitando o mapeamento objeto-relacional.
+- DDD (Domain-Driven Design): Foco na modelagem de domínios ricos e na implementação de regras de negócio diretamente na camada de domínio.
+- TDD: Criação de testes para as funcionalidades da aplicação
+- Unit of Work: Padrão que controla a transação de múltiplos repositórios, garantindo a consistência de dados e promovendo a centralização do gerenciamento de transações.
+- Hangfire: Auxiliar na execução de tarefas em background
+- Docker: Utilização do docker compose para execução de múltiplos containers
+- Github Actions: Utilização do github actions para o processo de CI/CD, realizando a automatização da publicação da aplicação no ambiente
+- Amazon EC2: Utilização do EC2 para a publicação do serviço
+
+Frontend:
+
+- ReactJS / Vite: Utilizando do reactjs para implementação de todo o frontend da aplicação
+- ShadCN/UI: Biblioteca de componentes UI com design system customizável e compatível com React, proporcionando uma interface de usuário responsiva e moderna.
 
 <strong>Ounje - Waiter<strong/>
 
