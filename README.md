@@ -29,7 +29,7 @@
 <span>Sistema de gestão financeira colaborativa para pequenos empréstimos com geração automatizada de relatórios, calculo de dívidas e emprestimos em background e notificações<span/>
 
 Imagens da aplicação abaixo:
-![Logo](https://imgur.com/a/3oDYuwC.png)
+![Logo](https://imgur.com/3oDYuwC.png)
 
 Informações técnicas sobre a aplicação:
 
